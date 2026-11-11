@@ -1,0 +1,6 @@
+# M1 (design) and the shared helpers need nothing beyond the standard library.
+# These cover M2-M4 in mock mode, which is how the test suite runs.
+numpy>=1.26
+pillow>=10.0
+flask>=3.0
+requests>=2.31
